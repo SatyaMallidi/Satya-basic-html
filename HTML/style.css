@@ -1,0 +1,17 @@
+.image{
+       width:150px;
+       height:150px;
+       display: flex;
+       justify-content: center;
+       align-items: center;
+       height: 100vh;      
+      }
+h1{
+    color: blueviolet;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+p{
+    color: rgb(0, 255, 26);
+    font-family: Arial, Helvetica, sans-serif;
+ }
