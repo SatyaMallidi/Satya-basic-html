@@ -1,0 +1,13 @@
+
+.content{
+    background-image:url(./images/deadpool.jpg);
+    background-size: cover;
+    background-position: center;
+    color:silver;
+    padding: 10px;
+    text-align:justify;
+    font-style:italic;
+    font-weight: bold;
+    line-height: 3;
+
+}
